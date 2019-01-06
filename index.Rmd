@@ -31,10 +31,10 @@ As the semester progresses, we are going to read a book together. The book we're
 
 Many additional sources will be presented and referenced in class, and those are gathered at the [texts page](https://github.com/THOMASELOVE/2019-500/tree/master/texts) of our web site.
 
-## Getting Help! {-}
+## Getting Help {-}
 
 To get help for anything related to the course, email Dr. Love at `thomas.love@case.edu`.
 
-- Dr. Love is available on Tuesdays and Thursdays at CWRU, by appointment. To make an appointment, email him at `thomas.love@case.edu`. He is usually available for 15 minutes before and 30 minutes after class for drop-in conversations. His office is Wood WG-82 L.
+- Dr. Love is available on Tuesdays and Thursdays at CWRU, by appointment. To make an appointment, email him at `thomas.love@case.edu`. He is also available from 11 AM to Noon after each class for drop-in conversations. His office is Wood WG-82 L.
     + If you have any special concerns about the course, need special accommodations or any other issues for Dr. Love, please email or speak with him before or after class.
 

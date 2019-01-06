@@ -6,7 +6,7 @@ The four types of assignments are:
 
 1. A course project
 2. An "observational studies in action" presentation
-3. Seven brief "essays" about chapters in the Rosenbaum (2017) text, and
+3. Several brief "essays" about chapters in the Rosenbaum (2017) text, and
 4. Five "homework" assignments involving using R to perform and present analyses.
 
 ## A course project
@@ -15,27 +15,27 @@ You will do a small observational study as a capstone project for the course. Yo
 
 1. a **proposal** which you will submit for my approval in February (you should expect the need to do a revision or two) and you will need to receive my approval by March 1.
 2. an **update** verifying that you have the data and are proceeding appropriately, due April 1.
-3. a final 20-minute **presentation** to the class about your results accompanied by an **abstract**, and by R Markdown and HTML files that describe the work you did. The presentations are on April 19 and 26. You will submit your abstract and presentation slides on April 18, and then submit all of the final materials by May 1.
+3. a final 20-minute **presentation** to the class about your results accompanied by an **abstract**, and by R Markdown and HTML files that describe the work you did. The presentations are on April 25 and May 1. You will submit your abstract and presentation slides on April 24, and then submit all of the final materials by May 6.
 
-Complete details on the Course Project [are available here](https://github.com/THOMASELOVE/500-2018/tree/master/projects).
+Complete details on the Course Project [are available here](https://github.com/THOMASELOVE/2019-500/tree/master/projects).
 
 ## An "Observational Studies in Action" presentation
 
-During the semester, you will be responsible for presenting the methods and results of an observational study from the literature that uses propensity scores. Your choice of manuscript must be accepted before March 1 by Dr. Love. After you've claimed a study, you'll give a 15-minute presentation of it to the class in late March / early April, and you'll also act as "second reviewer" for one of the studies selected by your colleagues.
+During the semester, you will be responsible for presenting the methods and results of an observational study from the literature that uses propensity scores. Your choice of manuscript must be accepted before March 1 by Dr. Love. After you've claimed a study, you'll present it to the class in early April, and you'll also act as "second reviewer" for one of the studies selected by your colleagues.
 
-Complete details on the OSIA work [are available here](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/OSIA).
+Complete details on the OSIA work [are available here](https://github.com/THOMASELOVE/2019-500/tree/master/assignments/OSIA).
 
 ## Essays in reaction to the course text
 
-In most sessions, we will be reading chapters from Paul Rosenbaum's *Observation and Experiment*. In early sessions, we will be reading several chapters at once (see [the Schedule](https://github.com/THOMASELOVE/500-2018/blob/master/SCHEDULE.md) for up-to-date details.) Beginning with Class 4, we will slow the pace to one chapter per class, and you will then produce an essay in reaction to each chapter (Chapters 7-13, specifically), to share with the rest of the class. 
+In most sessions, we will be reading chapters from Paul Rosenbaum's *Observation and Experiment*. In early sessions, we will be reading several chapters at once (see [the Schedule](https://github.com/THOMASELOVE/2019-500/blob/master/SCHEDULE.md) for up-to-date details.) Beginning with Class 4, you will produce an essay in reaction to this reading to share with the rest of the class. 
 
-The essay prompts [are available here](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md).
+The essay prompts [are available here](https://github.com/THOMASELOVE/2019-500/blob/master/assignments/essayprompts.md).
 
 ## Homework Assignments
 
-The five "regular" homework assignments usually require you to do some analyses (using R and R Markdown) on data I will provide to you. All of these occur before the middle of March. 
+Five "regular" homework assignments usually require you to do some analyses (using R and R Markdown) on data I will provide to you. 
 
-Details on the homework assignments [are available here](https://github.com/THOMASELOVE/500-2018/tree/master/assignments).
+Details on the homework assignments [are available here](https://github.com/THOMASELOVE/2019-500/tree/master/assignments).
 
 ## A Note on Feedback
 

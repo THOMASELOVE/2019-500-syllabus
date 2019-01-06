@@ -12,7 +12,7 @@ I strongly encourage people to first complete the PQHS 431-432 sequence, or at l
 
 ## Everything is on the Web
 
-https://github.com/THOMASELOVE/500-2018 is the place to go for everything related to this course. Please visit any time you need something. I update the web site frequently. You'll find links there related to:
+https://github.com/THOMASELOVE/2019-500 is the place to go for everything related to this course. Please visit any time you need something. I update the web site frequently. You'll find links there related to:
 
 - Your homework **Assignments**
 - **Data and Code** I will provide
