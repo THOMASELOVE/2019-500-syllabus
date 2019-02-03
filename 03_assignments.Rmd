@@ -1,11 +1,11 @@
 # Assignments
 
-The course requires you to complete four types of "assignments" all of which are described on [the course assignments page](https://github.com/THOMASELOVE/500-2018/tree/master/assignments), and also listed as part of [the Class Schedule](https://github.com/THOMASELOVE/500-2018/blob/master/SCHEDULE.md).
+The course requires you to complete "assignments" of which are described on [the course assignments page](https://github.com/THOMASELOVE/500-2018/tree/master/assignments), and also listed as part of [the Class Schedule](https://github.com/THOMASELOVE/500-2018/blob/master/SCHEDULE.md).
 
-The four types of assignments are:
+The ~~four~~ three types of assignments are:
 
 1. A course project
-2. An "observational studies in action" presentation
+~~2. An "observational studies in action" presentation~~
 3. Several brief "essays" about chapters in the Rosenbaum (2017) text, and
 4. Five "homework" assignments involving using R to perform and present analyses.
 
@@ -19,11 +19,9 @@ You will do a small observational study as a capstone project for the course. Yo
 
 Complete details on the Course Project [are available here](https://github.com/THOMASELOVE/2019-500/tree/master/projects).
 
-## An "Observational Studies in Action" presentation
+## ~~An "Observational Studies in Action" presentation~~ (Cancelled for 2019)
 
-During the semester, you will be responsible for presenting the methods and results of an observational study from the literature that uses propensity scores. Your choice of manuscript must be accepted before March 1 by Dr. Love. After you've claimed a study, you'll present it to the class in early April, and you'll also act as "second reviewer" for one of the studies selected by your colleagues.
-
-Complete details on the OSIA work [are available here](https://github.com/THOMASELOVE/2019-500/tree/master/assignments/OSIA).
+As of 2019-02-03, the Observational Studies in Action assignment is cancelled for 2019.
 
 ## Essays in reaction to the course text
 
@@ -50,7 +48,7 @@ Instead, we discuss the HW assignments in class and I provide a detailed answer 
 
 - If you complete all deliverables on time, and your project and OSIA presentations are solid, you will receive an A in the course.
     - If you mostly meet that standard but don't quite (either because more than one thing is late or because you have substantial project problems that linger), either an A or B is possible.
-    - Grades that appear on Canvas will reflect successful and timely completion of assignments, and nothing more.
+    - Grades that appear on Canvas will reflect timely completion of a reasonable attempt at assignments, and nothing more.
 - This is an advanced graduate school course. I don't anticipate that anyone who makes a concerted effort will fall below the B standard, as no one has in the past. 
 - If you have any concerns, raise them with me directly as soon as possible. Email is likely the best approach.
 
